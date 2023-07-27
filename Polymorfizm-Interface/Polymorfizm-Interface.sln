@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polymorfizm-Interface", "Polymorfizm-Interface\Polymorfizm-Interface.csproj", "{147E57A1-F190-4C33-B1B8-D98636181F43}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{147E57A1-F190-4C33-B1B8-D98636181F43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{147E57A1-F190-4C33-B1B8-D98636181F43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{147E57A1-F190-4C33-B1B8-D98636181F43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{147E57A1-F190-4C33-B1B8-D98636181F43}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ACAB4B0D-6ABE-4EFD-ACD0-AFA20CFE2084}
+	EndGlobalSection
+EndGlobal

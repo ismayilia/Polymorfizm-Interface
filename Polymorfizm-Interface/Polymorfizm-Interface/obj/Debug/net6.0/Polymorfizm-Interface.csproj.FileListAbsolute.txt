@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\C#\C# 26.07\Polymorfizm-Interface\Polymorfizm-Interface\bin\Debug\net6.0\Polymorfizm-Interface.exe
+C:\Users\HP\Desktop\C#\C# 26.07\Polymorfizm-Interface\Polymorfizm-Interface\bin\Debug\net6.0\Polymorfizm-Interface.deps.json
+C:\Users\HP\Desktop\C#\C# 26.07\Polymorfizm-Interface\Polymorfizm-Interface\bin\Debug\net6.0\Polymorfizm-Interface.runtimeconfig.json
+C:\Users\HP\Desktop\C#\C# 26.07\Polymorfizm-Interface\Polymorfizm-Interface\bin\Debug\net6.0\Polymorfizm-Interface.dll
+C:\Users\HP\Desktop\C#\C# 26.07\Polymorfizm-Interface\Polymorfizm-Interface\bin\Debug\net6.0\Polymorfizm-Interface.pdb
+C:\Users\HP\Desktop\C#\C# 26.07\Polymorfizm-Interface\Polymorfizm-Interface\obj\Debug\net6.0\Polymorfizm-Interface.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\C#\C# 26.07\Polymorfizm-Interface\Polymorfizm-Interface\obj\Debug\net6.0\Polymorfizm-Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\C#\C# 26.07\Polymorfizm-Interface\Polymorfizm-Interface\obj\Debug\net6.0\Polymorfizm-Interface.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\C#\C# 26.07\Polymorfizm-Interface\Polymorfizm-Interface\obj\Debug\net6.0\Polymorfizm-Interface.AssemblyInfo.cs
+C:\Users\HP\Desktop\C#\C# 26.07\Polymorfizm-Interface\Polymorfizm-Interface\obj\Debug\net6.0\Polymorfizm-Interface.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C#\C# 26.07\Polymorfizm-Interface\Polymorfizm-Interface\obj\Debug\net6.0\Polymorfizm-Interface.dll
+C:\Users\HP\Desktop\C#\C# 26.07\Polymorfizm-Interface\Polymorfizm-Interface\obj\Debug\net6.0\refint\Polymorfizm-Interface.dll
+C:\Users\HP\Desktop\C#\C# 26.07\Polymorfizm-Interface\Polymorfizm-Interface\obj\Debug\net6.0\Polymorfizm-Interface.pdb
+C:\Users\HP\Desktop\C#\C# 26.07\Polymorfizm-Interface\Polymorfizm-Interface\obj\Debug\net6.0\Polymorfizm-Interface.genruntimeconfig.cache
+C:\Users\HP\Desktop\C#\C# 26.07\Polymorfizm-Interface\Polymorfizm-Interface\obj\Debug\net6.0\ref\Polymorfizm-Interface.dll
